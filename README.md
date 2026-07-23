@@ -1,5 +1,5 @@
 ## gemAi - Vision AI Assistant
-.
+
 
 gemAi is a simple yet powerful Android application that leverages the Google Gemini AI model to provide insights and answers based on images. Users can capture a new photo using their camera or select an existing one from their gallery, then ask any question about the image to get an AI-generated response.
 
